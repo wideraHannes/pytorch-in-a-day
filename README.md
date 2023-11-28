@@ -4,7 +4,7 @@ Following this tutorial: https://www.learnpytorch.io/
 Repository: https://github.com/mrdbourke/pytorch-deep-learning/
 youtube: https://youtu.be/Z_ikDlimN6A
 
-Outline:
+## Outline:
 
 0.  PyTorch Fundamentals
 1.  PyTorch Workflow Fundamentals
@@ -16,3 +16,7 @@ Outline:
 7.  PyTorch Experiment Tracking
 8.  PyTorch Paper Replicating
 9.  PyTorch Model Deployment
+
+## General Workflow During Course
+
+<img src="./images/workflow.png" height="200px"/>
